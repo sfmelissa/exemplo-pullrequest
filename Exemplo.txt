@@ -1,0 +1,7 @@
+- Baixar o repositório git clone e o link
+- Adicionar um arquivo seunome.txt e dentro do arquivo escrever seu nome e o nome da disciplina 
+(Versionamento de códigos)
+- realizar o git add
+- realizar o commit
+- realizar o push
+- solicitar o pullrequest
